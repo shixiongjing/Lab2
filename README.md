@@ -1,2 +1,2 @@
 # Lab2
-Lab 2 Assignment
+Lab 2 Assignment is good
