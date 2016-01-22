@@ -16,17 +16,18 @@ public class Lab2 {
 	// Assume that the original man is also going to St. Ives, so
 	// the boolean variable manGoingToStIves should be true.
 	
-	boolean manGoingToStIves = true;
+	boolean manGoingToStIves =true;
 
-	int numWives = 7;
+	int numWives = 7;//SHA256:UpARGvzrNKVLThcQWkRpea9Ecev2wtXDpg85zmeRzvg shj40@pitt.edu
 
 	int numSacksPerWife = 7;
 	
 	int numCatsPerSack = 7;
 
-	int numKitsPerCat = 7;
+	int numKitsPerCat =  7;
 
 	int total;
+
 
 	// If the original man is going to St. Ives, then all are going
 	// the narrator, original man, kitten, cats, sacks, wives.
@@ -43,7 +44,7 @@ public class Lab2 {
 	    // Otherwise, only the narrator is going!
 	    total = 1;
 	}
-	
+        System.out.println("Number of people going to St. Ives is " + total);
 	// 3. Right before exiting, the system should print
 	// "Number going to St. Ives is " and then, on the same line,
 	// the number going to St. Ives (stored in the _total_ variable).
